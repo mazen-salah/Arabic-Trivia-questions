@@ -6,9 +6,9 @@ This Python script allows you to scrape Arabic trivia questions from a specific 
 
 Before running this script, you need to install the required Python packages. You can do this using the following command:
 
-    ```bash
-    pip install undetected-chromedriver selenium
-    ```
+```bash
+pip install undetected-chromedriver selenium
+```
 
 ## Usage
 
@@ -22,11 +22,11 @@ Before running this script, you need to install the required Python packages. Yo
 
 3. Run the script:
 
-    ```bash
-    python trivia_scraper.py
-    ```
+```bash
+python trivia_scraper.py
+```
 
-    The script will launch an undetected Chrome browser, navigate to the blog post, scrape the questions and answers, and save them in a file named `data.json`.
+The script will launch an undetected Chrome browser, navigate to the blog post, scrape the questions and answers, and save them in a file named `data.json`.
 
 ## License
 
