@@ -4,7 +4,7 @@ This Python script allows you to scrape Arabic trivia questions from a specific 
 
 ## Prerequisites
 
-    Before running this script, you need to install the required Python packages. You can do this using the following command:
+Before running this script, you need to install the required Python packages. You can do this using the following command:
 
     ```bash
     pip install undetected-chromedriver selenium
